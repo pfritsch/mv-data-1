@@ -3,5 +3,19 @@
 		{
 			"image": "img/guillaume.jpg"
 		}
+	],
+	"conference": [
+		{
+			"image": "img/guillaume.jpg",
+			"titre": "Wireframe",
+			"date": "Jeudi 1813h",
+			"lieu": "E-Nov Campus",
+			"decription": "Le Wireframe est un outil important pour la conception et le développement de produits.",
+			"animateur": "Guillaume Rudin"
+		},
+		{
+			"image": "img/aurelie.jpg",
+			"titre": "w<Cvwbxd"
+		}
 	]
 }
