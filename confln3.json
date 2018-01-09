@@ -8,14 +8,38 @@
 		{
 			"image": "img/guillaume.jpg",
 			"titre": "Wireframe",
-			"date": "Jeudi 1813h",
+			"date": "18/12/2017",
 			"lieu": "E-Nov Campus",
 			"decription": "Le Wireframe est un outil important pour la conception et le développement de produits.",
-			"animateur": "Guillaume Rudin"
+			"animateur": "Guillaume RUDIN"
 		},
 		{
 			"image": "img/aurelie.jpg",
-			"titre": "w<Cvwbxd"
+			"titre": "Prestashop",
+			"date": "18/12/2017",
+			"lieu": "E-Nov Campus",
+			"animateur": "Aurelie JAEGLIN"
+		},
+		{
+			"image": "img/roxanne.jpg",
+			"titre": "Minimum Viable Product",
+			"date": "19/12/2017",
+			"lieu": "E-Nov Campus",
+			"animateur": "Roxanne CAMPS"
+		},
+		{
+			"image": "img/bastien.jpg",
+			"titre": "Plus responsive, tu meurs",
+			"date": "18/11/12",
+			"lieu": "E-Nov Campus",
+			"animateur": "Bastien DESME"
+		},
+		{
+			"image": "img/andras.jpg",
+			"titre": "Fontstruct",
+			"date": "18/12/2017",
+			"lieu": "E-Nov Campus",
+			"animateur": "Andras FERRARELLI-CANU"
 		}
 	]
 }
