@@ -41,5 +41,22 @@
 			"lieu": "E-Nov Campus",
 			"animateur": "Andras FERRARELLI-CANU"
 		}
+	],
+	"fight": [
+		{
+			"Pseudo": "Arnol Enstringdeguerre",
+			"image1": "img/rap.jpg",
+			"votes1": 1,
+			"image2": "img/rock.jpg",
+			"votes2": 2
+		},
+		{
+			"Profile pic": "img/txb.jpg",
+			"Pseudo": "TheXBigdragon",
+			"image1": "img/bm.jpg",
+			"votes1": 0,
+			"image2": "img/mercos.jpg",
+			"votes2": 0
+		}
 	]
 }
