@@ -44,11 +44,12 @@
 	],
 	"fight": [
 		{
-			"Pseudo": "Arnol Enstringdeguerre",
+			"Pseudo": "Arnold Enstringdeguerre",
 			"image1": "img/rap.jpg",
 			"votes1": 1,
 			"image2": "img/rock.jpg",
-			"votes2": 2
+			"votes2": 2,
+			"Profilepic": "img/aurelie.jpg"
 		},
 		{
 			"Profile pic": "img/txb.jpg",
